@@ -26,6 +26,7 @@ correctly predict its sex [‘m’, ‘f’, ‘infant’]. This dataset is inte
 problem, because it is easier to approach and interpret. There are only 8 predictor variables and
 all but one of the predictor categories are continuous.
 
+## Environment Setup 
 Language:
 Python 2
 
